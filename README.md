@@ -31,10 +31,10 @@ facilitate mutual progress.
 </picture>
 
 <!-- My Top Open Source Projects -->
-<details open> 
+<details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-<h3>🎮 Games Ecosystem</h3>
+<!-- <h3>🎮 Games Ecosystem</h3>
 <p>
     <a href="https://github.com/heming/e-card"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=heming&repo=e-card&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/heming/electron-game-template"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=heming&repo=electron-game-template&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -42,8 +42,8 @@ facilitate mutual progress.
     <a href="https://github.com/heming/game-develop-template"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=heming&repo=game-develop-template&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/heming/poker-game-template"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=heming&repo=poker-game-template&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/qingjiuge/gobang-game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qingjiuge&repo=gobang-game&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-</p>
-<h3>🔧 Tools Ecosystem</h3>
+</p> -->
+<!-- <h3>🔧 Tools Ecosystem</h3>
 <p>
     <a href="https://github.com/SmallTeddyTools/encryption"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddyTools&repo=encryption&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/SmallTeddyTools/copy-js"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddyTools&repo=copy-js&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -51,16 +51,11 @@ facilitate mutual progress.
 </p>
 <h3>🧸 Personal Ecosystem</h3>
 <p>
-    <a href="https://github.com/heming/electron-game-template"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=heming&repo=electron-game-template&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/heming/ProjectConstructionBlog"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=heming&repo=ProjectConstructionBlog&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/heming/ProjectConstructionHub"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=heming&repo=ProjectConstructionHub&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/heming/music-explorer-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=heming&repo=music-explorer-web&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/heming/dual-colored-ball"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=heming&repo=dual-colored-ball&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/wh131462/leetcode-practice"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wh131462&repo=leetcode-practice&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/wh131462/leetcode-practice">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wh131462&repo=leetcode-practice&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
+    </a>
 <h3>🧩 Browser Plugin</h3>
 <p>
-    <a href="https://github.com/heming/emoj-all"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=heming&repo=emoj-all&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/heming/labor-law"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=heming&repo=labor-law&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/984507092/platform-link"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=984507092&repo=platform-link&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
 [//]: # (    <a href="https://github.com/SmallTeddyTools/copyjs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddyTools&repo=copyjs&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>)
@@ -74,21 +69,21 @@ facilitate mutual progress.
      <summary><h2>🔭 My Code Time</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs%2024%20mins-blue) -->
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 605 Contributions in the Year 2024
- > 
-> 📦 95.0 kB Used in GitHub's Storage 
- > 
+ >
+> 📦 95.0 kB Used in GitHub's Storage
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
+ >
+> 📜 21 Public Repositories
+ >
 > 🔑 0 Private Repositories  
- > 
-**I'm an Early 🐤** 
+ >
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning    155 commits    █████░░░░░░░░░░░░░░░░░░░░   22.83% 
@@ -97,7 +92,8 @@ facilitate mutual progress.
 🌙 Night      91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.4%
 
 ```
-📅 **I'm Most Productive on Friday** 
+
+📅 **I'm Most Productive on Friday**
 
 ```text
 Monday       88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
@@ -110,8 +106,7 @@ Sunday       28 commits     █░░░░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 💬 Programming Languages: 
@@ -131,7 +126,7 @@ Mac                      41 mins             █░░░░░░░░░░�
 
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
 TypeScript               13 repos            ██████████░░░░░░░░░░░░░░░   41.94% 
@@ -142,14 +137,12 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 ```
 
-
-
  Last Updated on 27/04/2024
 <!--END_SECTION:waka-->
 </details>
 
 <!-- Stats and Activity -->
-<details open> 
+<details open>
   <summary><h2>📊 Stats and Activity</h2></summary>
 
 <h3>🔥 Streak Stats</h3>
@@ -174,7 +167,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 </details>
 
 <!-- My Favorite Tools -->
-<details open> 
+<details open>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -197,20 +190,8 @@ C#                       1 repo              ░░░░░░░░░░░�
 </details>
 
 <!-- GitHub Trophies -->
-<details open> 
+<details open>
   <summary><h2>🏆 GitHub Trophies</h2></summary>
 
   <p><a href="https://github.com/heming"><img src="https://github-profile-trophy.vercel.app/?username=heming&theme=discord&no-frame=true&no-bg=false&margin-w=4"></a></p>
 </details>
-
-<!-- Holopin Badges -->
-<details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
-
-  <p><a href="https://holopin.io/@heming"><img src="https://holopin.me/@heming" alt="@heming&#39;s Holopin board"></a></p>
-</details>
-
-<!-- GitHub Card -->
-<p>
-    <img alt="github" src="./imgs/github_background.jpeg" />
-</p>
